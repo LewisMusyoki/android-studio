@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Btns</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="save">SAVE</string>
+    <string name="Disp">DISPLAY CLICKED</string>
+    <string name="view">BSCSeventHandling</string>
+</resources>
